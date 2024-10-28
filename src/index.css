@@ -1,11 +1,11 @@
 html, body, #app, #app>div {
-  min-height: 100vh
+  min-height: 100vh;
+  background-color: aliceblue;
 }
 
 div#root {
   height: 100vh;
-  background-color: silver;
-  padding: 0 30px;
+  padding: 0;
 }
 
 body {
